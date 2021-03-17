@@ -1,6 +1,6 @@
 # news
 
-A new Flutter application.
+The first Flutter application learn From [udemy stephen grider](https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/)
 
 ## Getting Started
 
